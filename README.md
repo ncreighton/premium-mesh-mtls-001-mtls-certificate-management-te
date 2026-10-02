@@ -1,0 +1,2 @@
+# premium-mesh-mtls-001-mtls-certificate-management-te
+Juggling mTLS certificates across microservices is eating hours you don't have—expiration dates slip through, rotation schedules get lost, and suddenly your service mesh is vulnerable. The mTLS Certificate Management Template transforms certificate chaos into a centralized, automated tracking system inside Notion.  Stop managing certificates in sca
